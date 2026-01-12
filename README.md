@@ -86,7 +86,7 @@ Komunikasi: Simulasi chat support berbasis logika frontend (tanpa backend komple
 
 🚀 Cara Menjalankan
 # Clone repositori
-git clone https://github.com/AOK-opsnet/aok-ops-field-app.git
+git clone https://github.com/medevas09-create/aok-ops-field-app.git
 
 # Masuk ke direktori
 cd aok-ops-field-app
