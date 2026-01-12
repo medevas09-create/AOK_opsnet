@@ -85,14 +85,5 @@ UI/UX: Desain mobile-first, responsif, dan intuitif
 Komunikasi: Simulasi chat support berbasis logika frontend (tanpa backend kompleks)
 
 🚀 Cara Menjalankan
-# Clone repositori
-git clone https://github.com/medevas09-create/aok-ops-field-app.git
-
-# Masuk ke direktori
-cd aok-ops-field-app
-
-# Install dependensi
-npm install
-
-# Jalankan aplikasi
-npm start
+# enter to thid link:
+https://grow-read-87033365.figma.site/
